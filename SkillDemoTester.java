@@ -8,6 +8,6 @@ import java.nio.file.*;
 public class SkillDemoTester {
     @Test
     public void addition1() {
-        assertEquals(3, SkillDemo.add(1,2));
+        assertEquals(3, SkillDemo.add(1,4));
     }
 }
